@@ -1,4 +1,4 @@
-# 100A_CodeForeces_OkailsBlog_Solved By ME
+# 100A CodeForeces Problem Solved By ME
 
 1.The problem's are solved following MohamedAboOkail's Codeforces Blog.<br>
 Link: https://codeforces.com/topic/82677/en11 <br>
